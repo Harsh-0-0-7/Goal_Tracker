@@ -1,0 +1,19 @@
+{
+  "active_goals": [
+    {
+      "name": "Read a Book",
+      "total_target": 20.0,
+      "weekly_target": 5.0,
+      "unit": "Hours",
+      "daily_logs": []
+    },
+    {
+      "name": "Learn Spanish",
+      "total_target": 15.0,
+      "weekly_target": 3.5,
+      "unit": "Hours",
+      "daily_logs": []
+    }
+  ],
+  "completed_goals": []
+}
